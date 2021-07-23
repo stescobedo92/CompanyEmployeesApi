@@ -1,0 +1,81 @@
+2021-07-11 18:59:45.7414 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[CompanyEmployees.Entities.DTO.CompanyDto, CompanyEmployees.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Company -> CompanyDto
+Entities.Models.Company -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Company , CompanyDto , ResolutionContext )
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 36
+2021-07-11 18:59:50.7318 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[CompanyEmployees.Entities.DTO.CompanyDto, CompanyEmployees.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Company -> CompanyDto
+Entities.Models.Company -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Company , CompanyDto , ResolutionContext )
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 36
+2021-07-11 19:00:41.7930 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[CompanyEmployees.Entities.DTO.CompanyDto, CompanyEmployees.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Company -> CompanyDto
+Entities.Models.Company -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Company , CompanyDto , ResolutionContext )
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 36
+2021-07-11 19:07:26.0259 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[CompanyEmployees.Entities.DTO.CompanyDto, CompanyEmployees.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Company -> CompanyDto
+Entities.Models.Company -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Company , CompanyDto , ResolutionContext )
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , IEnumerable`1 , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 36
+2021-07-11 19:49:03.1317 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CompanyDto
+System.Object -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Object , CompanyDto , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 37
+2021-07-11 20:01:31.1205 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CompanyDto
+System.Object -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Object , CompanyDto , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 38
+2021-07-11 20:26:54.9930 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> CompanyDto
+System.Object -> CompanyEmployees.Entities.DTO.CompanyDto
+   at lambda_method(Closure , Object , CompanyDto , ResolutionContext )
+   at CompanyEmployees.Controllers.CompaniesController.GetCompanies() in C:\Users\stescobedo\source\repos\CompanyEmployees\CompanyEmployees\Controllers\CompaniesController.cs:line 38
